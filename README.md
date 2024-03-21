@@ -1,5 +1,5 @@
 # TurtleBot Navigation
-  A turtlebot which a differential drive bot equipped with LiDAR, wheel encoders and imu to collect information of surrounding. This bot can be used to navigate autonomously through a given area once map is made of that world.
+  A turtlebot which is a differential drive bot equipped with LiDAR, wheel encoders and imu to collect information of surrounding. This bot can be used to navigate autonomously through a given area once map is made of that world.
 
   In Gazebo different types of worlds can be made to navigate and simulate autonoumous navigation.
 
@@ -25,12 +25,13 @@
   - `colcon build`
 
 
-## Learnin Resources
+## Learning Resources
 
 - Navigation Stack
   - [Nav2 Stack](https://navigation.ros.org/getting_started/index.html)
 - Mapping
   - [SLAM](https://navigation.ros.org/tutorials/docs/navigation2_with_slam.html)
 - Go to .github --> Contributor_Guide --> Project_Tour for more information in this project
+- You can ask your doubts in the discord server OSF in the discuss-hub channel
   
 
