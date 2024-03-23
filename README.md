@@ -23,7 +23,7 @@
     - `cd turtle_ws/`
 - Now build the workspace using the following command
   - `colcon build`
-  - Please check all the depencies written in "<depend>package_name</depend>" in package.xml file present in src->turtlebot3_fake_node, src->turtlebot3_gazebo and src->simulations. If anyone of them is not installed they can cause error while setup.
+  - Please check all the dependencies written in "<depend>package_name</depend>" in package.xml file present in src->turtlebot3_fake_node, src->turtlebot3_gazebo and src->simulations. If anyone of them is not installed they can cause error while setup.
 
 
 ## Learning Resources
